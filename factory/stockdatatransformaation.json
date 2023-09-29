@@ -1,0 +1,9 @@
+{
+	"name": "stockdatatransformaation",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b641399c-a359-41cf-998f-088108374b92",
+		"tenantId": "d14637a3-b59a-40f7-9b5c-a4efa1f4a4ce"
+	}
+}
